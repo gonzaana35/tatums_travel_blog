@@ -1,0 +1,30 @@
+*{
+    font-family: Arial;
+}
+h1{
+    font: Geneva;
+    color: blue;
+}
+h3{
+    font: Geneva;
+    color: blueviolet;
+}
+body{
+    background-color: white;
+}
+article{
+    background-color:black, chocolate, white;
+}
+header{
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    color:antiquewhite;
+}
+a{
+    color:lightseagreen;
+    text-decoration: none;
+}
+/*I created an a hover, so when you click over the sentence it changes colors*/
+a:hover{
+    color: gray;
+}
