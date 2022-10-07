@@ -28,3 +28,12 @@ a{
 a:hover{
     color: gray;
 }
+img{
+    display: block;
+    height: 20%;
+    border: 10px;
+    border-color: chartreuse;
+    }
+    .subheading{
+        border-bottom: solid 5px;
+    }
